@@ -9,7 +9,7 @@
   
 - 👀 **What my interests are**
 
-  _I’m interested in understanding social phenomena as well as biological processes, coding, code optimization in algorithms, modeling, optimization problems in statictical and probabilistic models. In my PhD I study relational event networks (read [here](https://doi.org/10.1111/j.1467-9531.2008.00203.x) the first paper about REM) and investigate on the presence of time-dependent dynamics of past interactions among actors on the imminent future. I have already contributed to the literature on REM with a semi-parametric and a parametric method which both answer (in different ways) the question of how much a past action weighs on an actor's decision making process when such actor is undertaking its next (future) interaction._
+  _I’m interested in understanding social phenomena as well as biological processes, coding, code optimization in algorithms, modeling, optimization problems in statistical and probabilistic models. In my PhD I study relational event networks (read [here](https://doi.org/10.1111/j.1467-9531.2008.00203.x) the first paper about REM) and investigate on the presence of time-dependent dynamics of past interactions among actors on the imminent future. I have already contributed to the literature on REM with a semi-parametric and a parametric method which both answer (in different ways) the question of how much a past action weighs on an actor's decision making process when such actor is undertaking its next (future) interaction._
   
 - 🌱 **What I am learning**
 
