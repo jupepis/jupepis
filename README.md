@@ -13,7 +13,7 @@
   
 - 🌱 **What I am learning**
 
-  _I’m currently learning the limits and the potentials of time-sensitive extensions of the REM that can help a researcher to estimate the time-dynamic of specific behaviors that are observed in a relational event sequence. I am also very much into learning the potential of C/C++ and its libraries in interfacing with the machine in order to minimize the high cost in computational burden and storage required by the computation of statistics in REM._
+  _I’m currently learning the limits and the potentials of time-sensitive extensions of the REM which might help a researcher to estimate time-related dynamics of specific behavioral patterns observed in a relational event sequence. I am also very much into learning the potential of C/C++ and its libraries in interfacing with the machine in order to minimize the high cost in computational burden and storage required by the computation of statistics in REM._
   
 - 📫 **How you can contact me**
 
