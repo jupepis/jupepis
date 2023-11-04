@@ -5,7 +5,7 @@
 
 - 🧍 **Who I am**
 
-  _I’m Giuseppe, I am a Researcher at Tilburg University and I have recently completed my PhD in the same university._
+  _I’m Giuseppe, I am a Postdoctoral researcher at Tilburg University and I have recently completed my PhD in the same university._
   
 - 👀 **What my research interests are**
 
