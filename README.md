@@ -1,4 +1,4 @@
-✨ My Github intro in short ✨
+✨ My Github intro ✨
 - 👋 **Say Hi**
 
   _Hey there! Welcome to my quick intro here on Github!_
