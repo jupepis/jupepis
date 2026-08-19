@@ -5,7 +5,7 @@
 
 - 🧍 **Who I am**
 
-  _I’m Giuseppe, a Postdoctoral researcher at the University of Amsterdam since September 2024._
+  _I’m Giuseppe, a Postdoctoral researcher at the University of Amsterdam._
 
 - 🔬 **What I am working on**
   
